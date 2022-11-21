@@ -1,9 +1,9 @@
-<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/hi.gif" width="30px"> ! </h1>
+<img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/header.png">
 
 ## 💡 About me
 
-<img width="50%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<img width="50%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/git-header.svg">
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
@@ -28,8 +28,8 @@
 ## ✨GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=liwufei&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liwufei&theme=tokyonight">
 </div>
 
 <br>
