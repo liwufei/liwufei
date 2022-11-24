@@ -7,7 +7,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I’m currently working on [HogoTheme](https://github.com/liwufei/hugo-theme-next)
+- 🔭 I’m currently working on [Hogo](https://github.com/liwufei/hugo-theme-next)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
@@ -23,7 +23,7 @@
 
 ## 🌐 Languages and Tools
 
-![Liwufei's Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,docker,git,github,go,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,powershell,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
+![Liwufei's Skills](https://skillicons.dev/icons?i=activitypub,atom,aws,azure,bash,bootstrap,cloudflare,css,discord,docker,eclipse,fastapi,flutter,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,powershell,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
 
 ## ✨GitHub Stats
 
