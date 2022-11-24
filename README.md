@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/liwufei](https://github.com/liwufei)
 
-- 💬 Ask me about **PHP, Go, MySQL, Docker, TypeScript, Vue**
+- 💬 Ask me about **PHP, Go, MySQL, Docker, K8s, Node, Vue**
 
 - 📫 How to reach me **tech@liwufei.com**
 
@@ -23,7 +23,7 @@
 
 ## 🌐 Languages and Tools
 
-![Liwufei's Skills](https://skillicons.dev/icons?i=activitypub,atom,aws,azure,bash,bootstrap,cloudflare,css,discord,docker,eclipse,fastapi,flutter,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,powershell,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
+![Liwufei's Skills](https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,docker,flutter,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,powershell,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
 
 ## ✨GitHub Stats
 
