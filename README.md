@@ -29,9 +29,9 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=liwufei&theme=tokyonight">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight">
 </div>
 
 <br>
 
-![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=nord)
+![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night)
