@@ -28,14 +28,10 @@
 ## ✨ GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight"  width="48%">
+  <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </div>
 
-<!-- <br> -->
+<br>
 
 <!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
-
-## 💻 GitHub Contributions
-
-![Liwufei's GitHub Contributions](./profile-3d-contrib/profile-night-view.svg)
