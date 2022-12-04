@@ -34,4 +34,4 @@
 
 <br>
 
-![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night)
+<!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
