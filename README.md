@@ -3,7 +3,7 @@
 
 ## 💡 About me
 
-<img width="50%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/git-header.svg">
+<img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/git-header.svg" width="50%" align="right">
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
@@ -32,8 +32,10 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight">
 </div>
 
-<br>
+<!-- <br> -->
 
 <!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
 
-![Liwufei's GitHub Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
+## 📈GitHub Contributions
+
+![Liwufei's GitHub Contributions](./profile-3d-contrib/profile-night-view.svg)
