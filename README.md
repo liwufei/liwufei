@@ -7,7 +7,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I’m currently working on [Hogo](https://github.com/liwufei/hugo-theme-next)
+- 🔭 I’m currently working on [NextSoftware](https://nextsoftware.cn)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
@@ -35,3 +35,5 @@
 <br>
 
 <!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
+
+![Liwufei's GitHub Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
