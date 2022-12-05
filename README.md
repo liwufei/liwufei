@@ -7,13 +7,13 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I’m currently working on [NextSoftware](https://nextsoftware.cn)
+- 🔭 I’m currently working on [NextSoftware](https://github.com/OpenNextSoftware), [HugoTheme](https://github.com/hugotheme), [TechBooks](https://github.com/OpenTechBooks), [QuickRef](https://github.com/OpenQuickRef)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/liwufei](https://github.com/liwufei)
 
-- 💬 Ask me about **PHP, Go, MySQL, Docker, K8s, Node, Vue**
+- 💬 Ask me about **PHP, Go, MySQL, Redis, Docker, K8s, Node, Vue**
 
 - 📫 How to reach me **tech@liwufei.com**
 
@@ -28,10 +28,10 @@
 ## ✨ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight"  width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </div>
 
-<br>
+<!-- <br> -->
 
 <!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
