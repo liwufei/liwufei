@@ -32,6 +32,6 @@
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </div>
 
-<!-- <br> -->
+<br>
 
-<!-- ![Liwufei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liwufei&theme=tokyo-night) -->
+![Liwufei's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=liwufei&theme=tokyo-night)
