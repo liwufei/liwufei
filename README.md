@@ -7,7 +7,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I’m currently working on [NextSoftware](https://github.com/OpenNextSoftware), [HugoTheme](https://github.com/hugotheme), [TechBooks](https://github.com/OpenTechBooks), [QuickRef](https://github.com/OpenQuickRef)
+- 🔭 I’m currently working on [NextSoftware](https://github.com/OpenNextSoftware), [HugoTheme](https://github.com/hugotheme), [TechBooks](https://github.com/OpenTechBooks)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
