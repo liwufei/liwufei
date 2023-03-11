@@ -1,15 +1,15 @@
-<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/hi.gif" width="30px"> ! </h1>
-<img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/header.png">
+<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="./img/hi.gif" width="30px"> ! </h1>
+<img src="./img/header.png">
 
 ## 💡 About me
 
-<img src="https://raw.githubusercontent.com/liwufei/liwufei/main/img/git-header.svg" width="50%" align="right">
+<img src="./img/git-header.svg" width="50%" align="right">
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I’m currently working on [NextSoftware](https://github.com/OpenNextSoftware), [TechBooks](https://github.com/OpenTechBooks), [HugoTheme](https://github.com/hugotheme)
+- 🔭 I'm currently working on [NextSoftware](https://github.com/OpenNextSoftware), [TechBooks](https://github.com/OpenTechBooks), [HugoTheme](https://github.com/hugotheme)
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 🌱 I'm currently learning **Everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/liwufei](https://github.com/liwufei)
 
@@ -28,7 +28,7 @@
 ## ✨ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=liwufei&theme=tokyonight" width="48%">
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </div>
 
