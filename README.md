@@ -28,13 +28,11 @@
 
 ![Liwufei's Skills](https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,docker,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
 
-## ✨ Stats
+## ✨ Stats and Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liwufei&theme=tokyonight" width="48%">
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </p>
-
-<br>
 
 ![Liwufei's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=liwufei&theme=tokyo-night)
