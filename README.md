@@ -28,7 +28,7 @@
 
 ![Liwufei's Skills](https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,docker,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
 
-## ✨ Stats and Contributions
+## ✨ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liwufei&theme=tokyonight" width="48%">
