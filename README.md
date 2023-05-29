@@ -35,4 +35,4 @@
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </p>
 
-![Liwufei's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=liwufei&theme=tokyo-night)
+![Liwufei's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liwufei&theme=tokyo-night)
