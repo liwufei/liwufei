@@ -1,10 +1,10 @@
-<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="./img/hi.gif" width="30px"> ! </h1>
+<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="./images/hi.gif" width="30px"> ! </h1>
 
-<img src="./img/header.png">
+<img src="./images/header.png">
 
 ## 💡 About me
 
-<img src="./img/git-header.svg" width="50%" align="right">
+<img src="./images/git-header.svg" width="50%" align="right">
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
