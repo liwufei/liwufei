@@ -4,11 +4,11 @@
 
 ## 💡 About me
 
-<img src="./images/git-header.svg" width="50%" align="right">
+<img src="./images/about.png" width="50%" align="right">
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I'm currently working on [HugoTheme](https://github.com/hugotheme), [NextSoftware](https://github.com/OpenNextSoftware), [TechBooks](https://github.com/OpenTechBooks)
+- 🔭 I'm currently working on [HugoTheme](https://github.com/hugotheme), [TechBooks](https://github.com/OpenTechBooks)
 
 - 🌱 I'm currently learning **Everything 🤣**
 
@@ -26,7 +26,7 @@
 
 ## 🌐 Languages and Tools
 
-![Liwufei's Skills](https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,docker,git,github,gitlab,go,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,materialui,mongodb,mysql,netlify,nginx,nodejs,php,py,react,redis,solidity,symfony,ts,vercel,vite,vue,vscode,wordpress)
+[![My Skills](https://skillicons.dev/icons?i=ansible,appwrite,astro,aws,azure,bash,bootstrap,cloudflare,codepen,css,d3,django,docker,express,fastapi,firebase,flask,gcp,git,github,gitlab,go,grafana,graphql,heroku,html,ai,js,jenkins,jest,jquery,kubernetes,laravel,linux,md,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,php,postgres,prometheus,py,pytorch,rabbitmq,redis,rust,sass,supabase,solidity,symfony,tauri,tensorflow,threejs,ts,vercel,vite,vscode,vue,wasm,webflow,wordpress)](https://skillicons.dev)
 
 ## ✨ Stats and Contributions
 
@@ -35,4 +35,4 @@
   <img src="https://streak-stats.demolab.com/?user=liwufei&theme=tokyonight" width="48%">
 </p>
 
-![Liwufei's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liwufei&theme=tokyo-night)
+[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liwufei&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
