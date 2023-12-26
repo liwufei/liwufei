@@ -1,4 +1,4 @@
-<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="./images/hi.gif" width="30px"> ! </h1>
+<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei ! <img src="./images/hi.gif" width="30px"></h1>
 
 <img src="./images/header.png">
 
@@ -8,7 +8,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I'm currently working on [HugoTheme](https://github.com/hugotheme), [TechBooks](https://github.com/OpenTechBooks)
+- 🔭 I'm currently working on **AI**
 
 - 🌱 I'm currently learning **Everything 🤣**
 
