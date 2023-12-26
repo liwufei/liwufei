@@ -1,4 +1,4 @@
-<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei ! <img src="./images/hi.gif" width="30px"></h1>
+<h1 align="center"> 🙏🏻 Hi, I'm Li Wufei <img src="./images/hi.gif" width="30px"> ! </h1>
 
 <img src="./images/header.png">
 
@@ -26,7 +26,7 @@
 
 ## 🌐 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,appwrite,astro,aws,azure,bash,bootstrap,cloudflare,codepen,css,d3,django,docker,express,fastapi,firebase,flask,gcp,git,github,gitlab,go,grafana,graphql,heroku,html,ai,js,jenkins,jest,jquery,kubernetes,laravel,linux,md,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,php,postgres,prometheus,py,pytorch,rabbitmq,redis,rust,sass,supabase,solidity,symfony,tauri,tensorflow,threejs,ts,vercel,vite,vscode,vue,wasm,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=activitypub,actix,alpinejs,androidstudio,angular,ansible,appwrite,astro,atom,aws,azure,babel,bash,bootstrap,cloudflare,codepen,css,d3,dart,deno,devto,discord,django,docker,electron,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gitlab,go,grafana,graphql,gulp,heroku,html,idea,ai,instagram,js,jenkins,jest,jquery,kubernetes,laravel,latex,linkedin,linux,lit,md,mastodon,materialui,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,postman,powershell,prisma,prometheus,py,pytorch,rabbitmq,react,redis,redux,regex,rocket,rollupjs,rust,sass,sqlite,stackoverflow,styledcomponents,supabase,selenium,sentry,sequelize,solidity,solidjs,svelte,svg,symfony,tailwind,tauri,tensorflow,threejs,twitter,ts,vercel,vim,vite,vscode,vue,wasm,webflow,webpack,windicss,wordpress,workers)](https://skillicons.dev)
 
 ## ✨ Stats and Contributions
 
