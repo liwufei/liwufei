@@ -26,7 +26,7 @@
 
 ## 🌐 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=activitypub,actix,alpinejs,androidstudio,angular,ansible,appwrite,astro,atom,aws,azure,babel,bash,bootstrap,cloudflare,codepen,css,d3,dart,deno,devto,discord,django,docker,electron,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gitlab,go,grafana,graphql,gulp,heroku,html,idea,ai,instagram,js,jenkins,jest,jquery,kubernetes,laravel,latex,linkedin,linux,lit,md,mastodon,materialui,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,postman,powershell,prisma,prometheus,py,pytorch,rabbitmq,react,redis,redux,regex,rocket,rollupjs,rust,sass,sqlite,stackoverflow,styledcomponents,supabase,selenium,sentry,sequelize,solidity,solidjs,svelte,svg,symfony,tailwind,tauri,tensorflow,threejs,twitter,ts,vercel,vim,vite,vscode,vue,wasm,webflow,webpack,windicss,wordpress,workers&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,alpinejs,ansible,appwrite,astro,aws,azure,bootstrap,cloudflare,css,d3,dart,deno,django,docker,electron,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gitlab,go,grafana,graphql,heroku,html,idea,js,jenkins,jest,jquery,kubernetes,laravel,linux,lit,md,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,prisma,prometheus,py,pytorch,rabbitmq,react,redis,redux,rocket,rust,sass,styledcomponents,supabase,sequelize,solidity,solidjs,svelte,symfony,tailwind,tauri,tensorflow,threejs,ts,vercel,vite,vscode,vue,wasm,webflow,webpack,wordpress)](https://skillicons.dev)
 
 ## ✨ Stats and Contributions
 
