@@ -8,7 +8,7 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer ! </h3>
 
-- 🔭 I'm currently working on **AI**
+- 🔭 I'm currently working on **AI Native**
 
 - 🌱 I'm currently learning **Everything 🤣**
 
@@ -26,7 +26,7 @@
 
 ## 🌐 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ai,alpinejs,ansible,appwrite,astro,aws,azure,bootstrap,cloudflare,css,d3,dart,deno,django,docker,electron,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gitlab,go,grafana,graphql,heroku,html,idea,js,jenkins,jest,jquery,kubernetes,laravel,linux,lit,md,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,prisma,prometheus,py,pytorch,rabbitmq,react,redis,redux,rocket,rust,sass,styledcomponents,supabase,sequelize,solidity,solidjs,svelte,symfony,tailwind,tauri,tensorflow,threejs,ts,vercel,vite,vscode,vue,wasm,webflow,webpack,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ansible,aws,azure,bootstrap,cloudflare,css,docker,electron,fastapi,firebase,flutter,gcp,git,github,go,html,idea,js,jenkins,jquery,kubernetes,laravel,linux,md,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,prisma,py,rabbitmq,react,redis,rust,supabase,svelte,symfony,tailwind,tauri,tensorflow,ts,vercel,vite,vscode,vue,wasm,webpack,wordpress)](https://skillicons.dev)
 
 ## ✨ Stats and Contributions
 
