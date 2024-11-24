@@ -26,7 +26,7 @@
 
 ## 🌐 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ansible,aws,azure,bootstrap,cloudflare,css,docker,electron,fastapi,firebase,flutter,gcp,git,github,go,html,idea,js,jenkins,jquery,kubernetes,laravel,linux,md,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,nuxtjs,php,postgres,prisma,py,rabbitmq,react,redis,rust,supabase,svelte,symfony,tailwind,tauri,tensorflow,ts,vercel,vite,vscode,vue,wasm,webpack,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ansible,astro,bootstrap,css,docker,elasticsearch,express,fastapi,flask,git,github,githubactions,gitlab,go,grafana,graphql,html,js,jenkins,jquery,kubernetes,laravel,linux,md,mongodb,mysql,nestjs,netlify,nginx,nodejs,nuxtjs,php,postgres,prisma,prometheus,py,rabbitmq,redis,rust,sqlite,symfony,tauri,terraform,ts,vite,vscode,vue,wasm,wordpress)](https://skillicons.dev)
 
 ## ✨ Stats and Contributions
 
