@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP, Go, MySQL, Redis, Docker, Kubernetes**
 
-- 📫 How to reach me **<tech@liwufei.com>**
+- 📫 How to reach me **<liwufei@email.cn>**
 
 - 👨‍💻 All of my projects are available at [https://github.com/liwufei](https://github.com/liwufei)
 
